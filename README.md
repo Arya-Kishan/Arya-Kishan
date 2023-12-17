@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/premium-vector/developing-programming-coding-technologies-engineering-development-programmer-developer-create-code-computer-screen-with-codes-developer-work-with-task-coding-software-using-pc_458444-1131.jpg?w=2000)]
 <h1 align="center">Hi 👋, I'm Arya Kishan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="">
