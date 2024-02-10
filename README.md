@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-kishan&label=Profile%20views&color=0e75b6&style=flat" alt="arya-kishan" /> </p>
 
-- 🔭 I’m currently working on [Trailify](https://arya-react-trailify.netlify.app/)
+- 🔭 I’m currently working on [MERN-Ecommerce](https://heroic-twilight-9e84af.netlify.app/cart/65c3aaabec580b8a6d506d9e)
 
 - 🌱 I’m currently learning **MERN**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **arya96kishan@gmail.com**
+- 📫 How to reach me **arya69kishan@gmail.com**
 
 - ⚡ Fun fact **I think I am Programmer**
 
