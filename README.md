@@ -7,9 +7,7 @@
 - 🔭 I’m currently working on [MERN-Ecommerce](https://heroic-twilight-9e84af.netlify.app/cart/65c3aaabec580b8a6d506d9e)
 
 - 🌱 I’m currently learning **MERN**
-
-- 👨‍💻 All of my projects are available at [https://arya-kishan.github.io/PortFolio/](https://arya-kishan.github.io/PortFolio/)
-
+  
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **arya69kishan@gmail.com**
