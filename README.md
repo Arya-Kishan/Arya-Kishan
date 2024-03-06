@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arya69kishan@gmail.com**
 
-- ⚡ Fun fact **I think I am Programmer**
+- ⚡ Fun fact **AI gonna take our jobs...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
